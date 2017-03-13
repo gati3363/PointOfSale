@@ -1,0 +1,10 @@
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.loginform.resources
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.Properties.Resources.resources
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.SignUp.resources
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.csproj.GenerateResource.Cache
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\bin\Debug\PointofSale.exe
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\bin\Debug\PointofSale.pdb
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.exe
+c:\users\karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.pdb
+C:\Users\Karan\Documents\Visual Studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.csprojResolveAssemblyReference.cache
+C:\Users\Karan\documents\visual studio 2010\Projects\PointofSale\PointofSale\obj\x86\Debug\PointofSale.MainPage.resources
